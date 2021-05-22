@@ -16,11 +16,13 @@ RUNNING or USAGE
 
 FOR AUTOMATED BRUTING
 ------------------------
-* bash autobrute.shpython3 instagram.py <username> <wordlist> -m <mode>
+* bash autobrute.sh 
 ```
 ------------------------
 FOR MANUAL RUNNNING
 -------------------------
+python3 instagram.py <username> <wordlist> -m <mode>
+
 ### Bots(Threads)
 
 -   4 bots: 64 passwords at a time
