@@ -1,10 +1,10 @@
 #!/bin/bash
 
-echo "TARGET ID: "
+echo -n "TARGET ID: "
 
 read t
 
-echo "NAME OR PATH OF PASSWD LIST: "
+echo -n "NAME OR PATH OF PASSWD LIST: "
 
 read p
 
